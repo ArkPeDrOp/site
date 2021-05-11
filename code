@@ -1,0 +1,53 @@
+</html><hmtl lang=pt>
+	<header>
+		<body style="background-color: #ffffcc;">
+			<style>
+				h1 {
+					color: #ffcc66;
+				}
+				p {
+					margin-bottom: 30px;
+					text-indent: 3ch;
+				}
+ 
+				img {
+					max-height: 400px;
+				}
+				SubTitulo{
+				}
+
+
+			</style>
+	</header>
+<head>
+	<title>As Melhores receitas da Semana</title>
+
+	<h1>Bolo de Morango com Cobertura de Chocolate</h1>
+	<p> 1- Para o bolo: Pré-aqueça o forno a 180ºC. Unte uma forma de bolos redonda (20 x 7 centímetros) com margarina e polvilhe com um pouco de farinha, Retire o pé aos morangos, lave-os e corte em quartos; reserve.</p>
+	<p> 2- Numa batedeira eléctrica, bata na velocidade média o açúcar, ovos e a manteiga até obter uma mistura homogénea e cremosa. Adicione o leite, a essência de baunilha e misture cerca de 2 a 3 minutos até incorporar bem. Adicione a farinha e o fermento em pó e bata até ficar uma mistura cremosa. Por último, envolva com uma espátula os morangos na massa. </p>
+	<p> 3- Deite a massa na forma de bolos e leve ao forno cerca de 45 minutos (o tempo depende do forno). Espete um palito no meio e, se sair seco o bolo está cozido. Quando o bolo estiver cozido, desenforme para um prato e deixe arrefecer até à temperatura ambiente.</p>
+	<p> 4- Para a cobertura: Numa taça, coloque o chocolate negro partido em pequenos pedaços e o leite quente. Deixe o chocolate amolecer cerca de 2 a 3 minutos. Misture com uma vara de arames até obter uma mistura cremosa.
+	Deite a o creme de chocolate por cima do bolo e barre com uma espátula. Decore com os morangos fatiados, polvilhe com açúcar em pó e sirva.
+	</p>
+		<div class="SubTitulo">
+			<img src="https://www.foodfromportugal.com/content/uploads/2021/04/bolo-morango-cobertura-chocolate-03-360x240.jpg.webp" alt="Bolo1" style= margin-left-side 400px;>
+			<p> um bolo de morango delicioso</p>			
+		</div>
+		<h1>Torta Recheada com ChantIly</h1>
+	<p> 1- Pré-aqueça o forno a 180ºC, separe as gemas das claras, bata as claras em castelo e reserve no frigorífico, num copo, misture o café solúvel com o leite. </p>
+	<p> 2- Numa batedeira eléctrica, bata na velocidade média as gemas de ovo juntamente com o açúcar mascavado e a margarina amolecida até obter uma mistura bastante cremosa. Adicione a mistura do leite e café, o caramelo líquido e misture cerca de 3 a 4 minutos até incorporar bem. Reduza para a velocidade mínima, adicione a farinha misturada com o fermento em pó e bata até ficar uma mistura cremosa e homogénea. Por último, envolva com cuidado com uma espátula as claras em castelo.</p>
+	<p> 3- Forre um tabuleiro (36 x 30 centímetros) com papel vegetal e espalhe a massa por cima com a ajuda de uma espátula. Leve ao forno cerca de 12 a 15 minutos até dourar ligeiramente (o tempo depende do forno).</p>
+	<p> 4- Quando o bolo estiver cozido, retire do forno e deixe arrefecer. Coloque um pano ou papel vegetal sobre o bolo, vire sobre uma mesa e descole com cuidado o papel vegetal. Corte as bordas do bolo com uma faca.</p>
+	<p> 5- Para o recheio: Bata as natas juntamente com o açúcar em pó e a essência de baunilha até ficarem firmes, espalhe o creme sobre o bolo com uma espátula. Com a ajuda do pano, enrole o bolo com cuidado (retire o pano à medida que for enrolando). Coloque a torta numa torteira, decore com raspas de limão e sirva, guarde a torta no frigorífico.</p>
+		<img src="https://www.foodfromportugal.com/content/uploads/2019/11/torta-recheada-chantilly-01.jpg.webp" alt="Bolo2">
+		<h1> Link Para O site que foi retirado a materia</h1>
+	<a href='https://www.foodfromportugal.com/pt-pt/categoria/bolos/'>Click Aqui</a>
+	
+<audio controls>
+  <source src="Rock.mp3" type="audio/mpeg" />
+</audio>
+
+
+</head>
+</body>
+</html>
